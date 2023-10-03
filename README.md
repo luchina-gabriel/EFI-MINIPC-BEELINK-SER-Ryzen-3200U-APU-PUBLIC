@@ -1,6 +1,6 @@
 # Super Mini Hackintosh with AMD Ryzen 3 3200U - APU Graphics
 
-![About This Mac](https://github.com/luchina-gabriel/EFI-MINIPC-BEELINK-SER-Ryzen-3200U-APU-PUBLIC/assets/23700365/dfb9fa8b-4a98-492d-87f8-1061fd167560)
+![About This Mac](https://github.com/luchina-gabriel/EFI-MINIPC-BEELINK-SER-Ryzen-3200U-APU-PUBLIC/assets/23700365/2380d7d9-43c7-49d8-8df9-7fcce3bdfa7b)
 
 # Basic Information
 
