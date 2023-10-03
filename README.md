@@ -1,5 +1,7 @@
 # Super Mini Hackintosh with AMD Ryzen 3 3200U - APU Graphics
 
+![About This Mac](https://github.com/luchina-gabriel/EFI-MINIPC-BEELINK-SER-Ryzen-3200U-APU-PUBLIC/assets/23700365/dfb9fa8b-4a98-492d-87f8-1061fd167560)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.0)
